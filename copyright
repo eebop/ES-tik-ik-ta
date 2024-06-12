@@ -1,0 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ES-tik-ik-ta
+Upstream-Contact: Eebop Masch eebopm@gmail.com
+Source: https://github.com/eebop/ES-tik-ik-ta
+
+Files: *
+Copyright: Eebop Masch eebopm@gmail.com
